@@ -22,7 +22,7 @@ Using the finding from the notebook, `query.sql` is where i turned eachh finding
 
 7. Finally the stacked bar chart (`delivery_by_campaign`) made the retry pattern visible at a glance via visual confirmation that red (1100) only shows up in `Wave 1`, `Retry A`,  and `Wave 2` with fully disappearing by the last retry in each chain while `Retry C (pending)` and `Flash Sale` being all-green with no failures.  
 
-![Delivery by Campaign](C:\Users\SYJW\Desktop\Data%20Analyst%20Assignment\delivery_by_campaign.png)
+![Delivery by Campaign](delivery_by_campaign.png)
 
 ## Reconciliation Bridge
 
